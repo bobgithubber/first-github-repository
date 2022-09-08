@@ -13,3 +13,6 @@ Accept bot modification.
 
 New local feature.
 
+Add remote feature.
+
+Fixed.
