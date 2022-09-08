@@ -10,3 +10,6 @@ Modify on local branch.
 Modify on remote origin branch.
 
 Accept bot modification.
+
+New local feature.
+
