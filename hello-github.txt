@@ -16,3 +16,5 @@ New local feature.
 Add remote feature.
 
 Fixed.
+
+2. Change local feature-1
